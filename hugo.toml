@@ -1,4 +1,4 @@
-baseURL = "https://peterjordaninfo.github.io/hampshirehampshire-ramblers-site/"
+baseURL = "https://peterjordaninfo.github.io/hampshire-ramblers-site/"
 languageCode = 'en-gb'
 title = 'Hampshire Ramblers'
 theme = 'mainroad'
