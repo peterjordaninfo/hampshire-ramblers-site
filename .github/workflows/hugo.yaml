@@ -24,10 +24,11 @@ jobs:
       NODE_VERSION: 24.13.0
       TZ: Europe/Oslo
     steps:
+      - steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
         with:
-          submodules: recursive
+          submodules: true  # or recursive
           fetch-depth: 0
       - name: Setup Go
         uses: actions/setup-go@v6
