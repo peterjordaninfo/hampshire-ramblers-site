@@ -1,0 +1,47 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-gb'
+title = 'Hampshire Ramblers'
+theme = 'mainroad'
+
+[params]
+  description = "Walking for everyone in Hampshire"
+  subtitle = "At the heart of walking in Hampshire"
+  customCSS = ["css/custom.css"]
+  favicon = "images/ramblersfavicon-32x32.png"
+
+ [params.logo]
+  image = "images/logo.png"  # No leading slash
+  title = "Hampshire Ramblers"
+  subtitle = "At the heart of walking in Hampshire" 
+
+[params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["news-feature", "local-groups"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+  [[menu.main]]
+    name = "News & Events"
+    pageRef = "/news-events/"
+     weight = 2
+  [[menu.main]]
+    name = "Area Council"
+    pageRef = "/area-council/"
+    weight = 3
+[[menu.main]]
+    name = "Find a walk"
+    pageRef = "find-a-walk"
+    weight = 4
+  [[menu.main]]
+    name = "Footpath News"
+    pageRef = "/footpath-news/"
+    weight = 5
+  [[menu.main]]
+    name = "Contact Us"
+    pageRef = "/contact/"
+    weight = 6
