@@ -13,11 +13,10 @@ The Area Council represents our 13[^1] area and 2 age-related groups to local au
 
 <!-- {{< figure src="/images/hampshire_area_map_1.gif" alt="Map of Hampshire, showing the range of each local group" title="Area Map" >}} -->
 
-![Map of Hampshire, showing the 'range' of each local group](/hampshire-ramblers-site/images/hampshire_area_map_1.gif" Area Map")
+![Map of Hampshire, showing the 'range' of each local group](/hampshire-ramblers-site/images/hampshire_area_map_1.gif)
 
 *Map of Hampshire, showing the 'range' of each local group*
 
 As well as our 15 groups there are a number of [local walking clubs]({{< ref "affiliates.md" >}}) in Hampshire that are affiliated to the Ramblers.
 
-[^1]: There is not yet a Group to cover the
-Central East Hampshire.
+[^1]: There is not yet a Group to cover the Central East Hampshire.

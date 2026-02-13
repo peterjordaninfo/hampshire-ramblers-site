@@ -1,5 +1,10 @@
 baseURL = "https://peterjordaninfo.github.io/hampshire-ramblers-site/"
-canonifyURLs = true
+languageCode = "en-gb"
+title = "Hampshire Ramblers"
+theme = "mainroad"
+
+# These two MUST be false for Mainroad on GitHub Pages
+canonifyURLs = false
 relativeURLs = false
 
 [params]
