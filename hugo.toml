@@ -1,9 +1,7 @@
 baseURL = "https://peterjordaninfo.github.io/hampshire-ramblers-site/"
-canonifyURLs = true
-relativeURLs = false  
-languageCode = 'en-gb'
-title = 'Hampshire Ramblers'
-theme = 'mainroad'
+# Remove or set these to false:
+canonifyURLs = false
+relativeURLs = false
 
 [params]
   description = "Walking for everyone in Hampshire"
