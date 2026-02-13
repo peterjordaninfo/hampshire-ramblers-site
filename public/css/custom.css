@@ -2,6 +2,7 @@
    1. LOGO & HEADER SPACING
    ============================================================ */
 
+/* Default: Desktop settings */
 .logo.logo--mixed .logo__img,
 .logo .logo__img {
     max-height: 100px !important;
@@ -10,6 +11,22 @@
     height: auto !important;
 }
 
+/* Mobile Fix: Caps the logo width so it doesn't break the layout */
+@media screen and (max-width: 768px) {
+    .logo.logo--mixed .logo__img,
+    .logo .logo__img {
+        max-width: 80% !important; /* Prevents edge-to-edge overflow */
+        max-height: 60px !important; /* Makes header more compact on mobile */
+        height: auto !important;
+    }
+    
+    .header {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+/* Centers the logo and allows container to grow */
 .logo__link {
     display: flex !important;
     align-items: center;
