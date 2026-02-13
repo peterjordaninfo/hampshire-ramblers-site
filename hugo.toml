@@ -1,5 +1,6 @@
 baseURL = "https://peterjordaninfo.github.io/hampshire-ramblers-site/"
-relativeURLs = true
+canonifyURLs = true
+relativeURLs = false  
 languageCode = 'en-gb'
 title = 'Hampshire Ramblers'
 theme = 'mainroad'

@@ -11,7 +11,8 @@ The Ramblers exist to facilitate, for the benefit of everyone, the enjoyment and
 
 The Area Council represents our 13[^1] area and 2 age-related groups to local authorities and to the Ramblers' National Council.
 
-![Map of Hampshire, showing the 'range' of each local group](/images/hampshire_area_map_1.gif "Area Map")
+{{< figure src="/images/hampshire_area_map_1.gif" alt="Map of Hampshire, showing the range of each local group" title="Area Map" >}}
+<!-- ![Map of Hampshire, showing the 'range' of each local group](/hampshire-ramblers-site/images/hampshire_area_map_1.gif" Area Map") -->
 
 *Map of Hampshire, showing the 'range' of each local group*
 
