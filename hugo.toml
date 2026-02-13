@@ -1,7 +1,5 @@
 baseURL = "https://peterjordaninfo.github.io/hampshire-ramblers-site/"
-
-# Ensure these are exactly as shown:
-canonifyURLs = false
+canonifyURLs = true
 relativeURLs = false
 
 [params]
