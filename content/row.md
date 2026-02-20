@@ -1,5 +1,5 @@
 ---
-title: "Rigths of Way"
+title: "Rights of Way"
 description: "Information on Rights of Way."
 sidebar_title: "Find a route"
 sidebar_text: "Plan a walk with our library of tried-and-tested routes"
