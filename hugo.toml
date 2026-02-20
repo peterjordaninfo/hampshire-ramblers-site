@@ -45,6 +45,6 @@ relativeURLs = false
     pageRef = "find-a-walk"
     weight = 5
   [[menu.main]]
-    name = "Footpaths & RoW"
-    pageRef = "/footpaths-row/"
+    name = "Rights of Way"
+    pageRef = "/row/"
     weight = 6

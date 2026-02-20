@@ -1,6 +1,6 @@
 ---
-title: "Footpaths & RoW"
-description: "Information of footpaths and Rights of Way."
+title: "Rigths of Way"
+description: "Information on Rights of Way."
 sidebar_title: "Find a route"
 sidebar_text: "Plan a walk with our library of tried-and-tested routes"
 sidebar_link: "https://www.ramblers.org.uk/go-walking/routes"
