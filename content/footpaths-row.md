@@ -8,7 +8,7 @@ widgets:
   - "custom"
 ---
 
-![A worn footpath finger sign, with badges indicating different walks](/images/footpathsign.jpg)
+![A worn footpath finger sign, with badges indicating different walks](/hampshire-ramblers-site/images/footpathsign.jpg)
 
 Hampshire County Council is the Highways Authority for most of our area and has lots of information about Rights of Way in the county:
 

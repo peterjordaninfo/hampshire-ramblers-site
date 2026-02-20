@@ -8,7 +8,7 @@ In Hampshire there are 13[^1] area and 2 age-related groups.
 
 <!-- {{< figure src="/images/hampshire_area_map_1.gif" alt="Map of Hampshire, showing the range of each local group" title="Area Map" >}} -->
 
-![Map of Hampshire, showing the 'range' of each local group](/images/hampshire_area_map_1.gif)
+![Map of Hampshire, showing the 'range' of each local group](/hampshire-ramblers-site/images/hampshire_area_map_1.gif)
 
 *Map of Hampshire, showing the 'range' of each local group*
 

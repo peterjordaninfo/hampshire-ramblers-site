@@ -12,7 +12,7 @@ widgets:
 
 # Welcome to Hampshire Ramblers
 
-![Ramblers in a winter scene pausing for a joke.](/images/winterhero.jpg)
+![Ramblers in a winter scene pausing for a joke.](/hampshire-ramblers-site/images/winterhero.jpg)
 
 We are part of the Ramblers, Britain’s walking charity. The Hampshire Area of the Ramblers has over 4,000 members in 15 groups. Each week the groups lead a wide range of walks in Hampshire and our neighbouring counties. They will be delighted to welcome you.
 
@@ -22,7 +22,7 @@ The Area Council represents our 13[^1] area and 2 age-related groups to local au
 
 <!-- {{< figure src="/images/hampshire_area_map_1.gif" alt="Map of Hampshire, showing the range of each local group" title="Area Map" >}} -->
 
-![Map of Hampshire, showing the 'range' of each local group](/images/hampshire_area_map_1.gif)
+![Map of Hampshire, showing the 'range' of each local group](/hampshire-ramblers-site/images/hampshire_area_map_1.gif)
 
 *Map of Hampshire, showing the 'range' of each local group*
 
