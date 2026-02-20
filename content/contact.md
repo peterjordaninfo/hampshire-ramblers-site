@@ -9,7 +9,7 @@ The following officers were elected at the AGM on 14 February. To send an email,
 * **Chair:** [Richard Eve](mailto:chair@hampshireramblers.org.uk) (Winchester)
 * **Secretary:** [Mike Peacock](mailto:secretary@hampshireramblers.org.uk) (Andover)
 * **Treasurer:** [Steven Little](mailto:treasurer@hampshireramblers.org.uk) (Winchester)
-* **Membership Secretary:** [Owen Jones](mailto:membership.secretary@hampshireramblers.org.uk)
+* **Membership Secretary:** [Owen Jones](mailto:membership.secretary@hampshireramblers.org.uk) (Hampshire 20s & 30s)
 * **Walking Environment Officer:** [Richard Kenchington](mailto:hweo@hampshireramblers.org.uk) (Eastleigh)
 * **Footpath Officer:** [Alan Marlow](mailto:footpaths@hampshireramblers.org.uk) (Winchester)
 * **Access Officer:** [Les Mildon](mailto:access@hampshireramblers.org.uk) (Romsey)
