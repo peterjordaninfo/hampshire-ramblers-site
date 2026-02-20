@@ -1,25 +1,16 @@
 ---
-title: "Contact Us"
+title: "Area committee 2025-26"
+description: "Hampshire Area Council elected officers."
+sidebar: false
 ---
 
-To send an e-mail to one of the officers listed below, click on their name.
+The following officers were elected at the AGM on 14 February. To send an email, simply click on the officer's name.
 
-<div class="contact-list">
-
-**Chair** [Richard Eve](mailto:chair@hampshireramblers.org.uk) (Winchester)
-
-**Secretary** [Mike Peacock](mailto:secretary@hampshireramblers.org.uk) (Andover)
-
-**Treasurer** [Steven Little](mailto:treasurer@hampshireramblers.org.uk) (Winchester)
-
-**Membership Secretary** Vacant (Portsmouth)
-
-**Walking Environment Officer** [Richard Kenchington](mailto:hweo@hampshireramblers.org.uk) (Eastleigh)
-
-**Footpath Officer** [Alan Marlow](mailto:footpaths@hampshireramblers.org.uk) (Winchester)
-
-**Access Officer** [Les Mildon](mailto:access@hampshireramblers.org.uk) (Romsey)
-
-**Webmaster** [Peter Jordan](mailto:webmaster@hampshireramblers.org.uk) (Winchester)
-
-</div>
+* **Chair:** [Richard Eve](mailto:chair@hampshireramblers.org.uk) (Winchester)
+* **Secretary:** [Mike Peacock](mailto:secretary@hampshireramblers.org.uk) (Andover)
+* **Treasurer:** [Steven Little](mailto:treasurer@hampshireramblers.org.uk) (Winchester)
+* **Membership Secretary:** Vacant
+* **Walking Environment Officer:** [Richard Kenchington](mailto:hweo@hampshireramblers.org.uk) (Eastleigh)
+* **Footpath Officer:** [Alan Marlow](mailto:footpaths@hampshireramblers.org.uk) (Winchester)
+* **Access Officer:** [Les Mildon](mailto:access@hampshireramblers.org.uk) (Romsey)
+* **Digital Officer:** [Peter Jordan](mailto:webmaster@hampshireramblers.org.uk) (Winchester)

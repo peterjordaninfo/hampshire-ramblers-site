@@ -1,0 +1,11 @@
+{{ if .Params.sidebar_title }}
+<div class="widget">
+	<h4 class="widget__title">{{ .Params.sidebar_title }}</h4>
+	<div class="widget__content">
+		{{ .Params.sidebar_text | markdownify }}
+		{{ if .Params.sidebar_link }}
+			<br><a href="{{ .Params.sidebar_link }}">{{ .Params.sidebar_link_text | default "Read more" }}</a>
+		{{ end }}
+	</div>
+</div>
+{{ end }}

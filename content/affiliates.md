@@ -1,5 +1,7 @@
 ---
 title: "Affiliated clubs in Hampshire"
+description: "Walking groups that are affiliated to the Hampshire Area of the Ramblers."
+sidebar: false
 ---
 
 There are a number of local walking clubs in Hampshire that are affiliated to the Ramblers. To find out more, contact the secretary directly.

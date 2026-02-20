@@ -19,10 +19,9 @@ relativeURLs = false
   subtitle = "At the heart of walking in Hampshire" 
 
 [params.sidebar]
-  home = "right"
-  list = "right"
-  single = "right"
-  widgets = ["news-feature", "local-groups"]
+  home = ["custom", "local-groups"] # Default for the home page
+  list = ["custom", "search", "recent"] # Default for list pages
+  single = ["custom"] # Default for individual articles
 
 [menu]
   [[menu.main]]
@@ -30,22 +29,22 @@ relativeURLs = false
     pageRef = "/"
     weight = 1
   [[menu.main]]
-    name = "News & Events"
-    pageRef = "/news-events/"
-     weight = 2
+    name = "Area Groups"
+    pageRef = "/area-groups/"
+    weight = 2
   [[menu.main]]
     name = "Area Council"
     pageRef = "/area-council/"
     weight = 3
-[[menu.main]]
+   [[menu.main]]
+    name = "News & Events"
+    pageRef = "/news-events/"
+    weight = 4
+    [[menu.main]]
     name = "Find a walk"
     pageRef = "find-a-walk"
-    weight = 4
-  [[menu.main]]
-    name = "Footpath News"
-    pageRef = "/footpath-news/"
     weight = 5
   [[menu.main]]
-    name = "Contact Us"
-    pageRef = "/contact/"
+    name = "Footpaths & RoW"
+    pageRef = "/footpaths-row/"
     weight = 6
