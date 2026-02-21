@@ -1,27 +1,25 @@
 ---
-title: "Find a walk"
+title: "Find a route"
 description: "Find a Ramblers-led walk"
 
-sidebars:
-  - title: "Find a route"
-    text: "Plan your own walk with the Ramblers' library of tried-and-tested routes"
-    link: "https://www.ramblers.org.uk/go-walking/routes"
+# Data for the "Custom" widget (The one we already built)
+sidebar_title: "Featured Route"
+sidebar_text: "Plan your own walk with the Ramblers' library of tried-and-tested routes"
+sidebar_link: "https://www.ramblers.org.uk/go-walking/routes"
 
-  - title: "Some long distance Hampshire paths"
-    text: "Inspired or established by Hampshire Ramblers."
-    type: "header"  # This is our custom flag
-
-  - title: "Allan King Way"
-    link: "https://www.eastleighramblers.org.uk/Allan%20King%20Way%20Guide%20Book.pdf"
-
-  - title: "Brenda Parker Way"
+# Data for the new "LinkList" widget
+list_title: "Hampshire paths inspiired by Ramblers"
+list_items:
+  - text: "Brenda Parker Way"
     link: "https://brendaparkerway.northhampshiredownsramblers.org.uk/"
-
-  - title: "Itchen Way"
+  - text: "Allan King Way (PDF)"
+    link: "https://www.eastleighramblers.org.uk/Allan%20King%20Way%20Guide%20Book.pdf"
+  - text: "Itchen Way"
     link: "https://en.wikipedia.org/wiki/Itchen_Way"
 
 widgets:
   - "custom"
+  - "linklist"
 ---
 
 ![A group of Ramblers of different ages walking across a grassy meadow in winter.](/hampshire-ramblers-site/images/ramblers-stock-winter.jpg)

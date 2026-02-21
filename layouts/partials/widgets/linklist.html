@@ -1,0 +1,14 @@
+<div class="widget">
+    <h4 class="widget__title">{{ .Params.list_title }}</h4>
+    <div class="widget__content">
+        <ul style="list-style-type: disc; padding-left: 20px;">
+            {{ range .Params.list_items }}
+            <li style="margin-bottom: 10px;">
+                <a href="{{ .link | relURL }}" style="color: #285430; font-weight: bold;">
+                    {{ .text }}
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
