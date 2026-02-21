@@ -2,10 +2,33 @@
 title: "Find a walk"
 description: "Find a Ramblers-led walk"
 sidebar_title: "Find a route"
-sidebar_text: "Plan a walk with our library of tried-and-tested routes"
+sidebar_text: "Plan your own walk with the Ramblers' library of tried-and-tested routes"
 sidebar_link: "https://www.ramblers.org.uk/go-walking/routes"
 widgets:
   - "custom"
+
+
+# We change these to lists using the '-' syntax
+sidebars:
+  - title: "Find a route"
+    text: "Plan your own walk with the Ramblers' library of tried-and-tested routes"
+    link: "https://www.ramblers.org.uk/go-walking/routes"
+
+  - title: "Some Hampshire paths"
+    text: "Inspired or established by Hampshire Ramblers."
+
+- title: "Brenda Parker Way"
+    text: "78 miles between Aldershot & Andover in memory of Brenda Parker."
+    link: "https://brendaparkerway.northhampshiredownsramblers.org.uk/"
+
+widgets:
+  - "custom"
+---
+
+
+
+
+
 ---
 
 ![A group of Ramblers of different ages walking across a grassy meadow in winter.](/hampshire-ramblers-site/images/ramblers-stock-winter.jpg)
