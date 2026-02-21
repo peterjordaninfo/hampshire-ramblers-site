@@ -3,12 +3,12 @@ title: "Find a route"
 description: "Find a Ramblers-led walk"
 
 # Data for the "Custom" widget (The one we already built)
-sidebar_title: "Featured Route"
+sidebar_title: "Find a route"
 sidebar_text: "Plan your own walk with the Ramblers' library of tried-and-tested routes"
 sidebar_link: "https://www.ramblers.org.uk/go-walking/routes"
 
 # Data for the new "LinkList" widget
-list_title: "Hampshire paths inspired by Ramblers"
+list_title: "Paths inspired by Hampshire Ramblers"
 list_items:
   - text: "Brenda Parker Way"
     link: "https://brendaparkerway.northhampshiredownsramblers.org.uk/"
