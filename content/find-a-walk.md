@@ -19,12 +19,6 @@ widgets:
   - "custom"
 ---
 
-
-
-
-
----
-
 ![A group of Ramblers of different ages walking across a grassy meadow in winter.](/hampshire-ramblers-site/images/ramblers-stock-winter.jpg)
 
 When you join the Ramblers, we encourage you to join [a local group](https://www.ramblers.org.uk/go-walking/ramblers-groups). You'll then be part of a local community of walkers and rights of way volunteers. You'll be invited to join a mailing list to get alerts of upcoming group walks.
