@@ -8,7 +8,7 @@ sidebar_text: "Plan your own walk with the Ramblers' library of tried-and-tested
 sidebar_link: "https://www.ramblers.org.uk/go-walking/routes"
 
 # Data for the new "LinkList" widget
-list_title: "Hampshire paths inspiired by Ramblers"
+list_title: "Hampshire paths inspired by Ramblers"
 list_items:
   - text: "Brenda Parker Way"
     link: "https://brendaparkerway.northhampshiredownsramblers.org.uk/"
@@ -40,11 +40,11 @@ Sometimes you might want to take a walk at your own pace and the Rambler website
 In Hampshire we have a good number of long-distance paths, including 3 inspired or established by members of Hampshire Ramblers:
 
 ## Allan King Way 
-A 44 mile long walk between Portchester & Winchester, in memory of Allan King, a former Hampshire Ramblers Publicity Officer.
+A 44 mile long walk between Portchester and Winchester, in memory of Allan King, a former Hampshire Ramblers Publicity Officer.
 [Allan King Way (PDF)](https://www.eastleighramblers.org.uk/Allan%20King%20Way%20Guide%20Book.pdf)
 
 ## Brenda Parker Way
-78 miles between Aldershot & Andover in memory of Brenda Parker, who was a very active Rambler in the north of the county.
+78 miles between Aldershot and Andover in memory of Brenda Parker, who was a very active Rambler in the north of the county.
 [Brenda Parker Way](https://brendaparkerway.northhampshiredownsramblers.org.uk/)
 
 ## Itchen Way
