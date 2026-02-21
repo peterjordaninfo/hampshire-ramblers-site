@@ -1,12 +1,6 @@
 ---
 title: "Find a walk"
 description: "Find a Ramblers-led walk"
-sidebar_title: "Find a route"
-sidebar_text: "Plan your own walk with the Ramblers' library of tried-and-tested routes"
-sidebar_link: "https://www.ramblers.org.uk/go-walking/routes"
-widgets:
-  - "custom"
-
 
 # We change these to lists using the '-' syntax
 sidebars:
