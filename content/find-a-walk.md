@@ -7,13 +7,21 @@ sidebars:
     text: "Plan your own walk with the Ramblers' library of tried-and-tested routes"
     link: "https://www.ramblers.org.uk/go-walking/routes"
 
-  - title: "Some Hampshire paths"
+  - title: "Some long distance Hampshire paths"
     text: "Inspired or established by Hampshire Ramblers."
-    link: "/contact/"
+    type: "header"  # This is our custom flag
+
+  - title: "Allan King Way"
+    text: "44 miles between Portchester & Winchester, in memory of Allan King, a former Hampshire Ramblers Publicity Officer. (PDF)"
+    link: "https://www.eastleighramblers.org.uk/Allan%20King%20Way%20Guide%20Book.pdf"
 
   - title: "Brenda Parker Way"
-    text: "78 miles between Aldershot & Andover in memory of Brenda Parker."
+    text: "78 miles between Aldershot & Andover in memory of Brenda Parker, a very active Rambler in the north of the county."
     link: "https://brendaparkerway.northhampshiredownsramblers.org.uk/"
+
+  - title: "Itchen Way"
+    text: "32 miles from source near Hinton AMpner to Southampton Water, promoted by the Eastleigh Group."
+    link: "https://en.wikipedia.org/wiki/Itchen_Way"
 
 widgets:
   - "custom"
