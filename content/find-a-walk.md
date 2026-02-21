@@ -1,8 +1,6 @@
----
 title: "Find a walk"
 description: "Find a Ramblers-led walk"
 
-# We change these to lists using the '-' syntax
 sidebars:
   - title: "Find a route"
     text: "Plan your own walk with the Ramblers' library of tried-and-tested routes"
@@ -10,8 +8,9 @@ sidebars:
 
   - title: "Some Hampshire paths"
     text: "Inspired or established by Hampshire Ramblers."
+    link: "/contact/"
 
-- title: "Brenda Parker Way"
+  - title: "Brenda Parker Way"
     text: "78 miles between Aldershot & Andover in memory of Brenda Parker."
     link: "https://brendaparkerway.northhampshiredownsramblers.org.uk/"
 
