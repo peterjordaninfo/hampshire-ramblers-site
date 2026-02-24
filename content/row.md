@@ -34,4 +34,4 @@ HCAF is an independent statutory body with members who represent the views of re
 
 The Area Council has a sub-committee responsible for [footpaths and the walking environment]({{< relref "fpawe.md" >}}).
 
-It provides a range of guidance for volunteers.
+It provides a [range of guidance for volunteers]({{< relref "volunteering.md#Volunteer resources" >}}).
