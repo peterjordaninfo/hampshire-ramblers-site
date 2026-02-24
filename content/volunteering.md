@@ -20,7 +20,7 @@ There are lots of ways to volunteer in Hampshire.
 
 ### Volunteer resources
 
-The central Ramblers website has lots of [information about volunteering[(https://www.ramblers.org.uk/support-us/volunteering)], together with resources and a training library.
+The central Ramblers website has lots of [information about volunteering[(https://www.ramblers.org.uk/support-us/volunteering), together with resources and a training library.
 
 In Hampshire, the FPAWE sub-committee has developed a range of best practice guidance to explain how the Area's objectives are implemented and to advise volunteers on how they should approach the tasks. You can download the following PDFs:
 
