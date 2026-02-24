@@ -4,13 +4,13 @@ description: "Exploring and protecting the Hampshire countryside."
 sidebar_title: "Join a Walk!"
 sidebar_text: "Our groups have walks planned across the county."
 sidebar_link: "/find-a-walk/"
-sidebar_link_text: "Find a walk"
+sidebar_linktext: "Find a walk"
 widgets:
   - "custom"
   - "local-groups"
 ---
 
-# Welcome to Hampshire Ramblers
+## Welcome to Hampshire Ramblers
 
 ![Ramblers in a winter scene pausing for a joke.](/hampshire-ramblers-site/images/winterhero.jpg)
 
@@ -28,5 +28,4 @@ The Area Council represents our 13[^1] area and 2 age-related groups to local au
 
 The more local [Area Groups]({{< ref "area-groups.md" >}}) are at the heart of the Ramblers - where volunteers lead walks, protect rights of way and maintain footpaths. To get the most out of the Ramblers, we encourage you to join a local group.
 
-
-[^1]:   There is not yet a Group to cover the Central East Hampshire.
+[^1]: There is not yet a Group to cover the Central East Hampshire.

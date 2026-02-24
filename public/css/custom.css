@@ -1,0 +1,126 @@
+/* ============================================================
+   1. LOGO & HEADER SPACING
+   ============================================================ */
+
+/* Default: Desktop settings */
+.logo.logo--mixed .logo__img,
+.logo .logo__img {
+    max-height: 100px !important;
+    max-width: none !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+/* Mobile Fix: Caps the logo width so it doesn't break the layout */
+@media screen and (max-width: 768px) {
+    .logo.logo--mixed .logo__img,
+    .logo .logo__img {
+        max-width: 80% !important; /* Prevents edge-to-edge overflow */
+        max-height: 60px !important; /* Makes header more compact on mobile */
+        height: auto !important;
+    }
+    
+    .header {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+/* Centers the logo and allows container to grow */
+.logo__link {
+    display: flex !important;
+    align-items: center;
+    height: auto !important;
+}
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* ============================================================
+   2. NAVIGATION BAR (RAMBLERS GREEN)
+   ============================================================ */
+
+.menu, .menu__list, .menu__item {
+    background-color: #A4C7AB !important; 
+}
+
+.menu__link {
+    color: #000000 !important;
+}
+
+/* ============================================================
+   3. ACTIVE STATE (The "Catch-All" Version)
+   ============================================================ */
+
+/* Targets both --active (pages) and --current (folders) */
+.menu__item--active .menu__link,
+.menu__item--current .menu__link,
+.menu__item--active .menu__text,
+.menu__item--current .menu__text {
+    background-color: #00594C !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
+
+/* ============================================================
+   4. FOOTER STYLING
+   ============================================================ */
+
+.footer {
+    background-color: #A4C7AB !important;
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+.footer__container, .footer__copyright, .footer__copyright-credits {
+    background-color: #A4C7AB !important;
+    color: #000000 !important;
+}
+
+.footer__link {
+    color: #000000 !important;
+    font-weight: 600;
+}
+
+/* ============================================================
+   5. SIDEBAR WIDGETS
+   ============================================================ */
+
+.widget-local-groups .widget__list {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+
+/* ============================================================
+   6. CONTACT LIST STYLING (markdown version)
+   ============================================================ */
+
+.contact-list {
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+.contact-list strong {
+    display: block;
+    color: #00594C; 
+    font-size: 1.1rem;
+    margin-top: 15px;
+}
+
+.contact-list a {
+    color: #00594C;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.contact-list p {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+
+.contact-list p:last-child {
+    border-bottom: none;
+}

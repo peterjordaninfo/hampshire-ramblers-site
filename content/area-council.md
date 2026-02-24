@@ -2,8 +2,9 @@
 title: "Area Council"
 description: "Information about the Hampshire Area Council of the Ramblers."
 sidebar_title: "Our council members"
-sidebar_text: "How to contact an Area Council member."
+sidebar_text: "Officers and contact details of Area Council members."
 sidebar_link: "/contact/"
+sidebar_linktext: "Find our Council members"
 widgets:
   - "custom"
 ---
@@ -11,6 +12,7 @@ widgets:
 In the Ramblers, the Area serves as the vital strategic bridge between our local walking Groups, the national Central Office and our local highway authorities, currently Hampshire County Council, Portsmouth City Council and Southampton City Council.
 
 ## The Role of Hampshire Area
+
 We are one of 59 Areas across Great Britain. While local Groups focus on  inspecting and maintaining paths, organising group walks or running local campaigns; the Area Council has a more strategic role. Our main functions include:
 
 * __Coordination__: Connecting the 15 local Groups within their boundaries to ensure they work together and follow national strategy.
@@ -26,12 +28,12 @@ As well as the honorary officers of Chair, Secretary and Treasurer the council i
 
 The Council meets every quarter and holds an Annual General Meeting each year. Any member of a Ramblers Group in Hampshire can attend the AGM - to vote on regional issues, elect the Council members and nominate two delegates to the national [General Council](https://www.ramblers.org.uk/about-us/general-council).
 
-### Footpath and walking environment sub-committee
-The Area Council has a sub-committee responsible for footpaths and the walking environment.
+### Footpath and Walking Environment sub-committee
+
+The Area Council has a sub-committee responsible for [footpaths and the walking environment]({{< relref "fpawe.md" >}}).
 
 ## AGM 14 February 2026
 
 The 2026 AGM took place at 14:00 on 14 February, in Romsey.
 
 The AGM elected a new committee. [Find out who's who]({{< ref "contact.md" >}}).
-

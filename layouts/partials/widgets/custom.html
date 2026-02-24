@@ -1,12 +1,23 @@
-<div class="widget">
-    <h4 class="widget__title">{{ .Params.sidebar_title }}</h4>
+<div class="widget" style="margin-bottom: 20px;">
+    {{ if .Params.sidebar_title }}
+        <h4 class="widget__title">{{ .Params.sidebar_title }}</h4>
+    {{ end }}
+    
     <div class="widget__content">
         {{ if .Params.sidebar_image }}
-            <img src="{{ .Params.sidebar_image | relURL }}" alt="Sidebar Image" style="width:100%; height:auto; margin-bottom:10px;">
+            <img src="{{ .Params.sidebar_image | relURL }}" alt="Sidebar Image" style="width:100%; height:auto; margin-bottom:10px; display: block;">
         {{ end }}
-        <p>{{ .Params.sidebar_text }}</p>
-        {{ if .Params.sidebar_link }}
-            <a class="widget__link" href="{{ .Params.sidebar_link | relURL }}">Find out more</a>
+        
+        <p style="margin-bottom: 8px;">{{ .Params.sidebar_text }}</p>
+        
+        {{ if and .Params.sidebar_link .Params.sidebar_linktext }}
+            <a href="{{ .Params.sidebar_link | relURL }}" style="font-weight: bold; color: #285430; text-decoration: underline;">
+                {{ .Params.sidebar_linktext }}
+            </a>
+        {{ else if .Params.sidebar_link }}
+            <a href="{{ .Params.sidebar_link | relURL }}" style="font-weight: bold; color: #285430; text-decoration: underline;">
+                {{ .Params.sidebar_link }}
+            </a>
         {{ end }}
     </div>
 </div>

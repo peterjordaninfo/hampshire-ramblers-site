@@ -48,3 +48,7 @@ relativeURLs = false
     name = "Rights of Way"
     pageRef = "/row/"
     weight = 6
+    [[menu.main]]
+    name = "Volunteering"
+    pageRef = "/volunteering/"
+    weight = 7
