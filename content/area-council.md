@@ -32,8 +32,12 @@ The Council meets every quarter and holds an Annual General Meeting each year. A
 
 The Area Council has a sub-committee responsible for [footpaths and the walking environment]({{< relref "fpawe.md" >}}).
 
-## AGM 14 February 2026
+## Area Council meeting
 
-The 2026 AGM took place at 14:00 on 14 February, in Romsey.
+Will be held on 10 March 2026 via Zoom.
+
+## AGM
+
+The 2026 AGM took place at 14:00 on 14 February 2026, in Romsey.
 
 The AGM elected a new committee. [Find out who's who]({{< ref "contact.md" >}}).
